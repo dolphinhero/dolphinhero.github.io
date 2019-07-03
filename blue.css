@@ -12,7 +12,7 @@ html, body {
     text-align: center;
     background-color: #007dc9;
     color: #ffffff;
-    font-family: Linux Libertine;
+    font-family: Linux Libertine, Georgia, Palatino, Serif;
 }
 
 .headline {
